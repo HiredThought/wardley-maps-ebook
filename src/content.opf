@@ -15,28 +15,28 @@
   </metadata>
   <manifest>
     <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml"/>
-    <item id="id1140" href="index_split_000.html" media-type="application/xhtml+xml"/>
-    <item id="id1139" href="index_split_001.html" media-type="application/xhtml+xml"/>
-    <item id="id1137" href="index_split_003.html" media-type="application/xhtml+xml"/>
-    <item id="id1135" href="index_split_005.html" media-type="application/xhtml+xml"/>
-    <item id="id1133" href="index_split_007.html" media-type="application/xhtml+xml"/>
-    <item id="id1131" href="index_split_009.html" media-type="application/xhtml+xml"/>
-    <item id="id1129" href="index_split_011.html" media-type="application/xhtml+xml"/>
-    <item id="id1127" href="index_split_013.html" media-type="application/xhtml+xml"/>
-    <item id="id1125" href="index_split_015.html" media-type="application/xhtml+xml"/>
-    <item id="id1123" href="index_split_017.html" media-type="application/xhtml+xml"/>
-    <item id="id1121" href="index_split_019.html" media-type="application/xhtml+xml"/>
-    <item id="id1119" href="index_split_021.html" media-type="application/xhtml+xml"/>
-    <item id="id1117" href="index_split_023.html" media-type="application/xhtml+xml"/>
-    <item id="id1115" href="index_split_025.html" media-type="application/xhtml+xml"/>
-    <item id="id1113" href="index_split_027.html" media-type="application/xhtml+xml"/>
-    <item id="id1111" href="index_split_029.html" media-type="application/xhtml+xml"/>
-    <item id="id1109" href="index_split_031.html" media-type="application/xhtml+xml"/>
-    <item id="id1107" href="index_split_033.html" media-type="application/xhtml+xml"/>
-    <item id="id1105" href="index_split_035.html" media-type="application/xhtml+xml"/>
-    <item id="id1103" href="index_split_037.html" media-type="application/xhtml+xml"/>
-    <item id="id1101" href="index_split_039.html" media-type="application/xhtml+xml"/>
-    <item id="id1100" href="index_split_040.html" media-type="application/xhtml+xml"/>
+    <item id="id1140" href="front_matter.html" media-type="application/xhtml+xml"/>
+    <item id="id1139" href="table_of_contents.html" media-type="application/xhtml+xml"/>
+    <item id="id1137" href="chapter_1.html" media-type="application/xhtml+xml"/>
+    <item id="id1135" href="chapter_2.html" media-type="application/xhtml+xml"/>
+    <item id="id1133" href="chapter_3.html" media-type="application/xhtml+xml"/>
+    <item id="id1131" href="chapter_4.html" media-type="application/xhtml+xml"/>
+    <item id="id1129" href="chapter_5.html" media-type="application/xhtml+xml"/>
+    <item id="id1127" href="chapter_6.html" media-type="application/xhtml+xml"/>
+    <item id="id1125" href="chapter_7.html" media-type="application/xhtml+xml"/>
+    <item id="id1123" href="chapter_8.html" media-type="application/xhtml+xml"/>
+    <item id="id1121" href="chapter_9.html" media-type="application/xhtml+xml"/>
+    <item id="id1119" href="chapter_10.html" media-type="application/xhtml+xml"/>
+    <item id="id1117" href="chapter_11.html" media-type="application/xhtml+xml"/>
+    <item id="id1115" href="chapter_12.html" media-type="application/xhtml+xml"/>
+    <item id="id1113" href="chapter_13.html" media-type="application/xhtml+xml"/>
+    <item id="id1111" href="chapter_14.html" media-type="application/xhtml+xml"/>
+    <item id="id1109" href="chapter_15.html" media-type="application/xhtml+xml"/>
+    <item id="id1107" href="chapter_16.html" media-type="application/xhtml+xml"/>
+    <item id="id1105" href="chapter_17.html" media-type="application/xhtml+xml"/>
+    <item id="id1103" href="chapter_18.html" media-type="application/xhtml+xml"/>
+    <item id="id1101" href="chapter_19.html" media-type="application/xhtml+xml"/>
+    <item id="id1100" href="back_matter.html" media-type="application/xhtml+xml"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
     <item id="page_css" href="page_styles.css" media-type="text/css"/>
     <item id="css" href="stylesheet.css" media-type="text/css"/>
@@ -323,7 +323,7 @@
     <itemref idref="id1100"/>
   </spine>
   <guide>
-    <reference type="toc" href="index_split_001.html#id_toc" title="Table of Contents"/>
+    <reference type="toc" href="table_of_contents.html#id_toc" title="Table of Contents"/>
     <reference type="cover" href="titlepage.xhtml" title="Cover"/>
   </guide>
 </package>

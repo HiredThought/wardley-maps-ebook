@@ -15,115 +15,115 @@
       <navLabel>
         <text>On being lost</text>
       </navLabel>
-      <content src="index_split_003.html"/>
+      <content src="chapter_1.html"/>
     </navPoint>
     <navPoint id="num_2" playOrder="2">
       <navLabel>
         <text>Finding a path</text>
       </navLabel>
-      <content src="index_split_005.html"/>
+      <content src="chapter_2.html"/>
     </navPoint>
     <navPoint id="num_3" playOrder="3">
       <navLabel>
         <text>Exploring the map</text>
       </navLabel>
-      <content src="index_split_007.html"/>
+      <content src="chapter_3.html"/>
     </navPoint>
     <navPoint id="num_4" playOrder="4">
       <navLabel>
         <text>Doctrine</text>
       </navLabel>
-      <content src="index_split_009.html"/>
+      <content src="chapter_4.html"/>
     </navPoint>
     <navPoint id="num_5" playOrder="5">
       <navLabel>
         <text>The play and a decision to act</text>
       </navLabel>
-      <content src="index_split_011.html"/>
+      <content src="chapter_5.html"/>
     </navPoint>
     <navPoint id="num_6" playOrder="6">
       <navLabel>
         <text>Getting started</text>
       </navLabel>
-      <content src="index_split_013.html"/>
+      <content src="chapter_6.html"/>
     </navPoint>
     <navPoint id="num_7" playOrder="7">
       <navLabel>
         <text>Finding a new purpose</text>
       </navLabel>
-      <content src="index_split_015.html"/>
+      <content src="chapter_7.html"/>
     </navPoint>
     <navPoint id="num_8" playOrder="8">
       <navLabel>
         <text>Keeping the wolves at bay</text>
       </navLabel>
-      <content src="index_split_017.html"/>
+      <content src="chapter_8.html"/>
     </navPoint>
     <navPoint id="num_9" playOrder="9">
       <navLabel>
         <text>Charting the future</text>
       </navLabel>
-      <content src="index_split_019.html"/>
+      <content src="chapter_9.html"/>
     </navPoint>
     <navPoint id="num_10" playOrder="10">
       <navLabel>
         <text>I wasn’t expecting that</text>
       </navLabel>
-      <content src="index_split_021.html"/>
+      <content src="chapter_10.html"/>
     </navPoint>
     <navPoint id="num_11" playOrder="11">
       <navLabel>
         <text>A smorgasbord of the slightly useful</text>
       </navLabel>
-      <content src="index_split_023.html"/>
+      <content src="chapter_11.html"/>
     </navPoint>
     <navPoint id="num_12" playOrder="12">
       <navLabel>
         <text>The scenario</text>
       </navLabel>
-      <content src="index_split_025.html"/>
+      <content src="chapter_12.html"/>
     </navPoint>
     <navPoint id="num_13" playOrder="13">
       <navLabel>
         <text>Something wicked this way comes</text>
       </navLabel>
-      <content src="index_split_027.html"/>
+      <content src="chapter_13.html"/>
     </navPoint>
     <navPoint id="num_14" playOrder="14">
       <navLabel>
         <text>To thine own self be true</text>
       </navLabel>
-      <content src="index_split_029.html"/>
+      <content src="chapter_14.html"/>
     </navPoint>
     <navPoint id="num_15" playOrder="15">
       <navLabel>
         <text>On the practice of scenario planning</text>
       </navLabel>
-      <content src="index_split_031.html"/>
+      <content src="chapter_15.html"/>
     </navPoint>
     <navPoint id="num_16" playOrder="16">
       <navLabel>
         <text>Super Looper</text>
       </navLabel>
-      <content src="index_split_033.html"/>
+      <content src="chapter_16.html"/>
     </navPoint>
     <navPoint id="num_17" playOrder="17">
       <navLabel>
         <text>To infinity and beyond</text>
       </navLabel>
-      <content src="index_split_035.html"/>
+      <content src="chapter_17.html"/>
     </navPoint>
     <navPoint id="num_18" playOrder="18">
       <navLabel>
         <text>Better for Less</text>
       </navLabel>
-      <content src="index_split_037.html"/>
+      <content src="chapter_18.html"/>
     </navPoint>
     <navPoint id="num_19" playOrder="19">
       <navLabel>
         <text>On playing chess</text>
       </navLabel>
-      <content src="index_split_039.html"/>
+      <content src="chapter_19.html"/>
     </navPoint>
   </navMap>
 </ncx>
