@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="5dc2093c-ac25-430c-a614-6995a93195a9"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="calibre (5.7.2)"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>Wardley Maps</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>On being lost</text>
+      </navLabel>
+      <content src="index_split_003.html"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Finding a path</text>
+      </navLabel>
+      <content src="index_split_005.html"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Exploring the map</text>
+      </navLabel>
+      <content src="index_split_007.html"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Doctrine</text>
+      </navLabel>
+      <content src="index_split_009.html"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>The play and a decision to act</text>
+      </navLabel>
+      <content src="index_split_011.html"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Getting started</text>
+      </navLabel>
+      <content src="index_split_013.html"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>Finding a new purpose</text>
+      </navLabel>
+      <content src="index_split_015.html"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>Keeping the wolves at bay</text>
+      </navLabel>
+      <content src="index_split_017.html"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>Charting the future</text>
+      </navLabel>
+      <content src="index_split_019.html"/>
+    </navPoint>
+    <navPoint id="num_10" playOrder="10">
+      <navLabel>
+        <text>I wasn’t expecting that</text>
+      </navLabel>
+      <content src="index_split_021.html"/>
+    </navPoint>
+    <navPoint id="num_11" playOrder="11">
+      <navLabel>
+        <text>A smorgasbord of the slightly useful</text>
+      </navLabel>
+      <content src="index_split_023.html"/>
+    </navPoint>
+    <navPoint id="num_12" playOrder="12">
+      <navLabel>
+        <text>The scenario</text>
+      </navLabel>
+      <content src="index_split_025.html"/>
+    </navPoint>
+    <navPoint id="num_13" playOrder="13">
+      <navLabel>
+        <text>Something wicked this way comes</text>
+      </navLabel>
+      <content src="index_split_027.html"/>
+    </navPoint>
+    <navPoint id="num_14" playOrder="14">
+      <navLabel>
+        <text>To thine own self be true</text>
+      </navLabel>
+      <content src="index_split_029.html"/>
+    </navPoint>
+    <navPoint id="num_15" playOrder="15">
+      <navLabel>
+        <text>On the practice of scenario planning</text>
+      </navLabel>
+      <content src="index_split_031.html"/>
+    </navPoint>
+    <navPoint id="num_16" playOrder="16">
+      <navLabel>
+        <text>Super Looper</text>
+      </navLabel>
+      <content src="index_split_033.html"/>
+    </navPoint>
+    <navPoint id="num_17" playOrder="17">
+      <navLabel>
+        <text>To infinity and beyond</text>
+      </navLabel>
+      <content src="index_split_035.html"/>
+    </navPoint>
+    <navPoint id="num_18" playOrder="18">
+      <navLabel>
+        <text>Better for Less</text>
+      </navLabel>
+      <content src="index_split_037.html"/>
+    </navPoint>
+    <navPoint id="num_19" playOrder="19">
+      <navLabel>
+        <text>On playing chess</text>
+      </navLabel>
+      <content src="index_split_039.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
